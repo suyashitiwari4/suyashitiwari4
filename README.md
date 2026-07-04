@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**suyashitiwari4/suyashitiwari4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Suyashi Tiwari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Electronics & Telecommunication Student
+
+💻 Aspiring Data Scientist | AI & ML Enthusiast
+
+## 🚀 Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Tableau
+- Streamlit
+- Machine Learning
+
+## 📚 Currently Learning
+- Deep Learning
+- Generative AI
+- Data Engineering
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/suyashi-tiwari-aa0723343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: suyashitiwari4@gmail.com
+  
+
